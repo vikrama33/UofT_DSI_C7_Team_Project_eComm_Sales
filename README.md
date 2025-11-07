@@ -7,3 +7,4 @@ E-Commerce dataset from Kaggle to study how different factors — like products,
 
 ## Objectives 
 Clean and organize the data for analysis. Find patterns between Sales, Profit, and Discounts. Identify which categories and regions are most profitable. Create easy-to-understand charts and graphs to share results. Build a model to predict future profit or sales
+test
